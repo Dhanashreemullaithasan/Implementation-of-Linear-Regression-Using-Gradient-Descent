@@ -101,12 +101,15 @@ print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![EX3I1](https://user-images.githubusercontent.com/94165415/200010454-b9ae1bd3-eb0f-432f-8cfd-7ee767939b25.png)
 
-![ml01](https://user-images.githubusercontent.com/94165415/194208609-421598fe-47f5-458a-bdfc-a95746191bd5.png)
+![ML 2](https://user-images.githubusercontent.com/94165415/200010481-27b28cfc-307e-4b1c-81a9-95258a0e2aec.png)
 
-![ml02](https://user-images.githubusercontent.com/94165415/194208620-f13a3cf6-aca7-45ca-8f14-5704ec404cc0.png)
+![ML5](https://user-images.githubusercontent.com/94165415/200010568-6e0eebb9-3ec6-4dc8-8880-e81d0a11f632.png)
 
-![ml03](https://user-images.githubusercontent.com/94165415/194208642-19119bb0-3e40-4005-8250-85d8c81026a1.png)
+![ML3](https://user-images.githubusercontent.com/94165415/200010524-1469aa0d-d175-4c9d-ac62-22de5cec1e5c.png)
+
+![ML4](https://user-images.githubusercontent.com/94165415/200010611-b2221cda-ad4b-4b3f-96fa-8d6499716588.png)
+
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
